@@ -37,8 +37,8 @@ Si prefieres compilar el código por tu cuenta o estás en otro sistema operativ
 
 ## 🛠️ Tecnologías Utilizadas
 
-* Lenguaje: C++
-* IDE sugerido: Visual Studio Code (incluye configuración en la carpeta .vscode)
+* Lenguaje: C++.
+* IDE sugerido: Visual Studio Code.
 
 ## 💡 Uso
 
